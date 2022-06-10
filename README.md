@@ -1,6 +1,6 @@
 # Weather App
 
-WeatherApp displays the weather information of the cities near the user, which it retrieves from the MetaWeather API by accessing the user's gps data.
+WeatherApp displays the weather information of the cities near the user, which it retrieves from the MetaWeather API by accessing the user's gps data .
 
 # Output
 
